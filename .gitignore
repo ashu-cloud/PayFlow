@@ -1,0 +1,9 @@
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+_temp_backup/
